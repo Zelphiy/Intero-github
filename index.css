@@ -6,6 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    box-sizing: border-box;
 }
 
 .content {
@@ -76,6 +77,7 @@ button{
     margin-left: 100px;
     border-radius: 12px;
     background-color: lightyellow;
+}
 
 .tooltip {
     display: none;
