@@ -72,6 +72,11 @@ textarea {
     width: 100%;
 }
 
+button{
+    margin-left: 100px;
+    border-radius: 12px;
+    background-color: lightyellow;
+
 .tooltip {
     display: none;
     position: absolute;
